@@ -9,6 +9,12 @@ WHY DO I WANT TO BE A SOFTWARE ENGINEER?
 
 > “ Leonard, I don’t like change! ” 
  If you are a Big Bang Theory fan,  I am sure you are familiar with this famous Sheldon Cooper quote. Regardless of your intelligence, getting out of your comfort zone is not an easy task.
+ 
+ ![](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/11377143_10153059772388725_8196750064231238768_n.jpg?_nc_cat=104&_nc_sid=e3f864&_nc_ohc=Zyc-nZnJi5gAX8pDM7D&_nc_ht=scontent-sjc3-1.xx&oh=a6390a5062bbd360f12c2071f15f17f8&oe=5ECDE045)
+ 
+ 
+ 
+ 
 
  In my case, I had an established marketing and strategy consulting career which spans over a decade. So, why did I decide to study Software Engineering? Well, the answer is not as complicated as you might think. As once the  great philosopher  Rumi  said: “Today I am wise, so I am changing myself.”  Irrespective of your past experiences or education, there is no way to deny digital transformation is taking over. While Artificial Intelligence and programmatic advertising are revolutionizing marketing, us marketers are yet to utilize the limitless opportunities. And I think without truly understanding software engineering it is a difficult task to accomplish. 
  
@@ -21,7 +27,7 @@ Working together with top tech companies, I’ve been on the fringes of the tech
 Your passion never goes away. That’s why when you are asked to build a single page registration form.  You teach yourself HTML in 36 hours from scratch and you end up with a full website! 
 
 
-I feel very privileged to be a part of the Flatiron School and eager to be a successful software engineer! Adding to wahat Rumi said, I believe if you are changing yourself today, tomorrow you can change the world for the better. 
+I feel very privileged to be a part of the Flatiron School and eager to be a successful software engineer! Adding to what Rumi said, I believe if you are changing yourself today, tomorrow you can change the world for the better. 
 
 
 
