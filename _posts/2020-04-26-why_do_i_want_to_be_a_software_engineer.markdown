@@ -21,7 +21,7 @@ One might think that marketing is a little different than software engineering. 
 
 Working together with top tech companies, I’ve been on the fringes of the tech world and programming but never really in it. But I was always passionate about it since my childhood. There are certain accomplishments that are implemented in one’s mind. Like the first time successfully playing a Nirvana or Queen song. Your first successful three point attempt or the first time you open a source code on  Netscape, manipulate things, and able to download an mp3 which was intended to stream when you enter a website… 
 
-![](https://giphy.com/gifs/nba-stephen-curry-expression-xULW8D8Mc58RapxkK4)
+![](https://media1.giphy.com/media/xULW8D8Mc58RapxkK4/200w.webp?cid=ecf05e47efd4b00946e39d4b82386e2ac195fb5392596cec&rid=200w.webp)
 
 Sometimes your passion never goes away. That’s why when  you are asked to build a single page registration form,   you find yourself  learning HTML in 36 hours from scratch and  end up  building a full   website! 
 
