@@ -18,8 +18,6 @@ WHY DO I WANT TO BE A SOFTWARE ENGINEER?
  
 One might think that marketing is a little different than software engineering. But in the core, they are very similar.  As marketers, we deal with questions every day. We try to understand the challenges, use logic to fix the problem. Then we test our solution. Most of the time, something doesn’t work at the first try, so we find it,  correct it, and rerun the strategy. Does it sound familiar? 
 
-![](https://media0.giphy.com/media/cO2GMlSmqEhWko77KU/200.webp?cid=ecf05e47bb68c7a5da798c44443650b78001a725540722c8&rid=200.webphttp://)
-
 
 Working together with top tech companies, I’ve been on the fringes of the tech world and programming but never really in it. But I was always passionate about it since my childhood. There are certain accomplishments that are imprinted in one’s mind. Like the first time successfully playing a Nirvana or Queen song. Your first successful three point attempt or the first time you learn to view a source code on  Netscape, manipulate things, and download a song which was intended for only streaming … 
 
