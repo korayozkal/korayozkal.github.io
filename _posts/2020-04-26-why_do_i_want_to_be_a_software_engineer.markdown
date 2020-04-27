@@ -8,7 +8,7 @@ permalink:  why_do_i_want_to_be_a_software_engineer
 WHY DO I WANT TO BE A SOFTWARE ENGINEER? 
 
  “ Leonard, I don’t like change! ” 
- If you are a Big Bang Theory fan,  I am sure you are familiar with this famous Sheldon Cooper quote. Regardless of your intelligence, getting out of your comfort zone is not an easy task.
+ If you are a Big Bang Theory fan,  I am sure you are familiar with this famous Sheldon Cooper quote. Regardless of your intelligence or skills, getting out of your comfort zone is not an easy task.
  
  ![](https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/11377143_10153059772388725_8196750064231238768_n.jpg?_nc_cat=104&_nc_sid=e3f864&_nc_ohc=Zyc-nZnJi5gAX8pDM7D&_nc_ht=scontent-sjc3-1.xx&oh=a6390a5062bbd360f12c2071f15f17f8&oe=5ECDE045)
  
