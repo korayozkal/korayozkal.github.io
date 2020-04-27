@@ -16,12 +16,13 @@ WHY DO I WANT TO BE A SOFTWARE ENGINEER?
  In my case, I had an established marketing and strategy consulting career which spans over a decade. So, why did I decide to study Software Engineering? Well, the answer is not as complicated as you might think. As once the  great philosopher  Rumi  said: “Today I am wise, so I am changing myself.”  Irrespective of your past experiences or education, there is no way to deny digital transformation is taking over. While Artificial Intelligence and programmatic advertising are revolutionizing marketing, us marketers are yet to utilize the limitless opportunities. And I think without truly understanding software engineering it is a difficult task to accomplish. 
  
  
-One might think that marketing is a little different than software engineering. But in the core, they are very similar.  As marketers, we deal with questions every day. We try to understand the challenges, build logic to fix the problem. Then we test our solution. Most of the time, something doesn’t work, we find it,  correct it, and rerun the strategy. Does it sound familiar? 
+One might think that marketing is a little different than software engineering. But in the core, they are very similar.  As marketers, we deal with questions every day. We try to understand the challenges, use logic to fix the problem. Then we test our solution. Most of the time, something doesn’t work at the first try, so we find it,  correct it, and rerun the strategy. Does it sound familiar? 
+
+![](https://media0.giphy.com/media/cO2GMlSmqEhWko77KU/200.webp?cid=ecf05e47bb68c7a5da798c44443650b78001a725540722c8&rid=200.webphttp://)
 
 
 Working together with top tech companies, I’ve been on the fringes of the tech world and programming but never really in it. But I was always passionate about it since my childhood. There are certain accomplishments that are implemented in one’s mind. Like the first time successfully playing a Nirvana or Queen song. Your first successful three point attempt or the first time you open a source code on  Netscape, manipulate things, and able to download an mp3 which was intended to stream when you enter a website… 
 
-![](https://media1.giphy.com/media/xULW8D8Mc58RapxkK4/200w.webp?cid=ecf05e47efd4b00946e39d4b82386e2ac195fb5392596cec&rid=200w.webp)
 
 Sometimes your passion never goes away. That’s why when  you are asked to build a single page registration form,   you find yourself  learning HTML in 36 hours from scratch and  end up  building a full   website! 
 
